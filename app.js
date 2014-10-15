@@ -9,8 +9,6 @@ response.render('login.ejs', {
 layout:false
 });
 
-
-//  response.send('trabalho de redes vamo la!')
 })
 
 app.listen(app.get('port'), function() {
